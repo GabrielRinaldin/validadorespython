@@ -1,4 +1,4 @@
-# 🧩 validadorespython
+# 🧩 validadores python
 
 Uma pequena coleção de validadores escritos em Python, criados com foco em reutilização, legibilidade e simples integração em aplicações.
 
